@@ -2,7 +2,7 @@
 
 This repository contains the code for an intelligent chatbot, designed to engage users in natural and meaningful conversations. It leverages advanced natural language processing (NLP) techniques, machine learning models, and integrates with vector databases for enhanced knowledge retrieval.
 
-![Chatbot Image](images/)
+<img width="1208" alt="Image" src="https://github.com/user-attachments/assets/d4958220-ca75-4f1e-be84-90f743d41046" img/>
 
 ## Features
 
