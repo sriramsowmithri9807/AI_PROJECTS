@@ -2,7 +2,7 @@
 
 This repository contains the code for an intelligent chatbot, designed to engage users in natural and meaningful conversations. It leverages advanced natural language processing (NLP) techniques, machine learning models, and integrates with vector databases for enhanced knowledge retrieval.
 
-![Chatbot Image](https://placehold.co/600x300?text=Intelligent+Chatbot)  *(Replace this placeholder URL with your actual image URL)*
+<img width="1208" alt="Image" src="https://github.com/user-attachments/assets/ad108970-9437-4d0b-8337-1549d0a04cb8" img/>
 
 ## Features
 
