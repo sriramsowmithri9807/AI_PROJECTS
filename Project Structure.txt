@@ -1,0 +1,26 @@
+intelligent_chatbot/
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── routes.py
+│   ├── chatbot/
+│   │   ├── __init__.py
+│   │   ├── engine.py
+│   │   ├── memory.py
+│   │   ├── prompt_templates.py
+│   │   └── utils.py
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── chat.js
+│   └── templates/
+│       └── index.html
+├── tests/
+│   ├── __init__.py
+│   ├── test_chatbot.py
+│   └── test_routes.py
+├── .env
+├── .gitignore
+├── requirements.txt
+└── run.py
